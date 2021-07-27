@@ -1,4 +1,4 @@
-Non-rigid 3D Shape Dataset: PKUnon-rigid
+Non-rigid 3D Shape Dataset: PKUnon-rigid. More details are comming soon.
 
 [Point Cloud](https://drive.google.com/file/d/13qgm8_L9rerLWQbvdsRRJZVD6z_5vGad/view?usp=sharing)
 
